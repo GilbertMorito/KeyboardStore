@@ -4,7 +4,6 @@ html, body{
     letter-spacing: 0.5em;
     background-color: #e9c291;
     color: rgb(220, 209, 205);
-    background-image: linear-gradient(#e9c291, rgb(252, 252, 252), #e9c291);
     height: 100%;
 }
 #page{
