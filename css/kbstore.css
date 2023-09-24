@@ -2,7 +2,7 @@ html, body{
     font-size: 80%;
     font-family: 'Courier New', Courier, monospace;
     letter-spacing: 0.5em;
-    background-color: #e9c291;
+    background-color: #471C0D;
     color: rgb(220, 209, 205);
     height: 100%;
 }
@@ -16,7 +16,7 @@ html, body{
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #5f2307;
-    box-shadow: 5px 10px 10px rgb(65, 65, 65);
+    box-shadow:  5px 5px 30px rgb(214, 141, 22, 0.5);
 }
 #logo{
     width: 90%;
